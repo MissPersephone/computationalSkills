@@ -17,4 +17,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 P.S.: I am learning about git.
 
 PPS: One does not simply change README.MD #insert Mordor Meme here
+<<<<<<< HEAD
 PPPS: How dareth thy!! So cool hier. 
+=======
+PPPS: How dareth thy!! Sawohnsinn ...
+>>>>>>> 34f662e27dd57b5f37ca810a9c02c45cc701e221
