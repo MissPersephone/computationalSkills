@@ -1,0 +1,22 @@
+#persons-table, #persons-table * {
+  border-spacing: 5px;
+  borde-collapse: collapse;
+  border: solid;
+}
+
+body {
+  background: linear-gradient(to right, #2058b2, #ead815)
+}
+
+tr{
+  background: linear-gradient(to left, #2058b2, #ead815)
+}
+#redButton{
+    background-color: pink;
+}
+#greenButton{
+    background-color: lightgreen;
+}
+#blueButton{
+    background-color: lightblue;
+}
